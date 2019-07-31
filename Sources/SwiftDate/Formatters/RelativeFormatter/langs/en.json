@@ -123,8 +123,8 @@
     },
     "hour" : {
       "current" : "this hour",
-      "future" : "in {0} hr.",
-      "past" : "{0} hr. ago"
+      "future" : "in {0}h",
+      "past" : "{0}h ago"
     },
     "second" : {
       "past" : "{0} sec. ago",
@@ -139,16 +139,16 @@
       "next" : "next yr."
     },
     "week" : {
-      "previous" : "last wk.",
-      "current" : "this wk.",
-      "future" : "in {0} wk.",
-      "past" : "{0} wk. ago",
-      "next" : "next wk."
+      "previous" : "last week",
+      "current" : "this week",
+      "future" : "in {0} weeks",
+      "past" : "{0} weeks ago",
+      "next" : "next week"
     },
     "minute" : {
       "current" : "this minute",
-      "future" : "in {0} min.",
-      "past" : "{0} min. ago"
+      "future" : "in {0}m",
+      "past" : "{0}m ago"
     },
     "now" : "now",
     "quarter" : {
@@ -167,21 +167,21 @@
   },
   "narrow" : {
     "hour" : {
-      "future" : "in {0} hr.",
+      "future" : "in {0}h",
       "current" : "this hour",
-      "past" : "{0} hr. ago"
+      "past" : "{0}h ago"
     },
     "week" : {
-      "next" : "next wk.",
-      "previous" : "last wk.",
-      "past" : "{0} wk. ago",
-      "current" : "this wk.",
-      "future" : "in {0} wk."
+      "next" : "next week",
+      "previous" : "last week",
+      "past" : "{0} weeks ago",
+      "current" : "this week",
+      "future" : "in {0} weeks"
     },
     "minute" : {
       "current" : "this minute",
-      "past" : "{0} min. ago",
-      "future" : "in {0} min."
+      "past" : "{0}m ago",
+      "future" : "in {0}m"
     },
     "second" : {
       "current" : "now",
@@ -190,11 +190,11 @@
     },
     "now" : "now",
     "month" : {
-      "past" : "{0} mo. ago",
-      "current" : "this mo.",
-      "next" : "next mo.",
-      "previous" : "last mo.",
-      "future" : "in {0} mo."
+      "past" : "{0} months ago",
+      "current" : "this month",
+      "next" : "next month",
+      "previous" : "last month",
+      "future" : "in {0} months"
     },
     "day" : {
       "current" : "today",
