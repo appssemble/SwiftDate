@@ -28,8 +28,8 @@
     },
     "hour" : {
       "past" : {
-        "other" : "{0} hours ago",
-        "one" : "{0} hour ago"
+        "other" : "{0}h ago",
+        "one" : "{0}h ago"
       },
       "future" : {
         "one" : "in {0} hour",
@@ -53,8 +53,8 @@
     "minute" : {
       "current" : "this minute",
       "past" : {
-        "one" : "{0} minute ago",
-        "other" : "{0} minutes ago"
+        "one" : "{0}m ago",
+        "other" : "{0}m ago"
       },
       "future" : {
         "one" : "in {0} minute",
@@ -102,11 +102,11 @@
   },
   "short" : {
     "month" : {
-      "future" : "in {0} mo.",
-      "previous" : "last mo.",
-      "current" : "this mo.",
-      "next" : "next mo.",
-      "past" : "{0} mo. ago"
+      "future" : "in {0} months",
+      "previous" : "last month",
+      "current" : "this month",
+      "next" : "next month",
+      "past" : "{0} months ago"
     },
     "day" : {
       "past" : {
